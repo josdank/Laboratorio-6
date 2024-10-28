@@ -7,7 +7,7 @@
    - [Imagen N° 1](#imagen-n°-1)
    - [Imagen N° 2](#imagen-n°-2)
 4. [Código Local Storage](#código-local-storage)
-   - [Imagen N° 1](#imagen-n°-1)
+   - [Imagen N° 1](#imagen-a)
    - [Código](#código)
    - [Ejecución](#ejecución-del-código)
 5. [Código Módulos Common.JS](#código-módulos-commonjs)
@@ -17,8 +17,8 @@
    - [Código](#código-2)
    - [Ejecución](#ejecución-2)
 7. [Local Storage](#local-storage)
-   - [Imagen N° 1](#imagen-n°-1)
-   - [Imagen N° 2](#imagen-n°-2)
+   - [Imagen N° 1](#primera-imagen)
+   - [Imagen N° 2](#segunda-imagen)
 8. [Links de Interés](#links-de-interés)
    - [Link de la API (Pokémon)](#link-de-la-api-pokémon)
    - [Link del Compilatorio de API's](#link-del-compilatorio-de-apis)
@@ -41,7 +41,7 @@ Este laboratorio se enfoca en el consumo de la API de Pokémon para obtener info
 ## Código Local Storage 
 Para este apartado se insertó una librería para un correcto funcionamiento, tomando en cuenta que local storage no está disponible en el entorno Node.js.
 
-### Imagen N° 1
+### Imagen A
 ![image](https://github.com/user-attachments/assets/e2db35ed-a454-47b7-ab09-37bbdcb39daa)
 
 ### Código
@@ -65,10 +65,10 @@ Para este apartado se insertó una librería para un correcto funcionamiento, to
 ![image](https://github.com/user-attachments/assets/d6c18c9e-2cce-49b6-8dab-ae01334c8b5c)
 
 ## Local Storage
-### Imagen N° 1
+### Primera Imagen 
 ![image](https://github.com/user-attachments/assets/3082f6b2-508f-4b68-8c0b-d35e7e7de54c)
 
-### Imagen N° 2
+### Segunda Imagen
 ![image](https://github.com/user-attachments/assets/c0011515-b7c8-43a1-a749-8107622b33bd)
 
 ## Links de Interés
