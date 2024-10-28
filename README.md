@@ -65,10 +65,10 @@ Para este apartado se insertó una librería para un correcto funcionamiento, to
 ![image](https://github.com/user-attachments/assets/d6c18c9e-2cce-49b6-8dab-ae01334c8b5c)
 
 ## Local Storage
-### Imagen N°1
+### Imagen N° 1
 ![image](https://github.com/user-attachments/assets/3082f6b2-508f-4b68-8c0b-d35e7e7de54c)
 
-### Imagen N°2
+### Imagen N° 2
 ![image](https://github.com/user-attachments/assets/c0011515-b7c8-43a1-a749-8107622b33bd)
 
 ## Links de Interés
